@@ -1,0 +1,13 @@
+[package]
+name = "enigmify"
+version = "0.1.0"
+edition = "2021"
+description = "A simple program to encrypt and decrypt text using the Enigma machine."
+license = "MIT"
+repository = "https://github.com/kremilly/Enigmify"
+homepage = "https://kremilly.com"
+authors = ["kremilly"]
+keywords = ["enigma", "encryption", "decryption", "machine", "cipher", "cli"]
+categories = ["cryptography", "security", "cli"]
+
+[dependencies]
