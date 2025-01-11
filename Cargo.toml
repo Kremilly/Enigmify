@@ -7,7 +7,7 @@ license = "MIT"
 repository = "https://github.com/kremilly/Enigmify"
 homepage = "https://kremilly.com"
 authors = ["kremilly"]
-keywords = ["enigma", "encryption", "decryption", "machine", "cipher", "cli"]
+keywords = ["enigma", "encryption", "decryption", "machine", "cryptography"]
 categories = ["cryptography", "security", "cli"]
 
 [dependencies]
