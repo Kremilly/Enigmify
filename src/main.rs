@@ -1,7 +1,7 @@
 use std::{
     io,
     collections::HashMap,
-}
+};
 
 #[derive(Clone)]
 struct Rotor {
@@ -10,7 +10,7 @@ struct Rotor {
 }
 
 impl Rotor {
-    
+
     fn new(wiring: &str) -> Self {
         let wiring = wiring
             .chars()
